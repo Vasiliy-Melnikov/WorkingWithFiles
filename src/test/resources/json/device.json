@@ -1,0 +1,18 @@
+{
+  "model": "Asus ROG Ally Z1 Extreme",
+  "year": 2023,
+  "os": "Windows 11 Home",
+  "ramGb": 16,
+  "benchmarks": [
+    {
+      "game": "Hogwarts Legacy",
+      "fps": 45,
+      "preset": "Medium"
+    },
+    {
+      "game": "Starfield",
+      "fps": 32,
+      "preset": "Low"
+    }
+  ]
+}
