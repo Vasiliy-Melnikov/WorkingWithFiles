@@ -60,7 +60,7 @@ public class ZipResourcesTest {
         assertThat(pdf.text)
                 .contains("This manual provides information about the hardware and software")
                 .contains("features of your ROG Handheld Console, organized through the")
-                .contains("following chapters.");git
+                .contains("following chapters.");
     }
 
     @Test
